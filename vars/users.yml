@@ -1,8 +1,6 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfrancisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: siduser105
+    aws_groups: "hnl,ogg"
+  - name: othersid
+    aws_groups: "hnl"
