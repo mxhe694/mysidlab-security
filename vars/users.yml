@@ -1,6 +1,6 @@
 ---
 users:
-  - name: siduser105
+  - name: sidhnluser105
     aws_groups: "hnl,ogg"
   - name: othersid
     aws_groups: "hnl"
